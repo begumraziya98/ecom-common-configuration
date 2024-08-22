@@ -15,3 +15,7 @@ microservice:
 
 test:
  input: 500000
+
+logging:
+  file:
+    name: C:\Users\Khaja Qumruddin\OneDrive\Desktop\app-los\ecom-log
